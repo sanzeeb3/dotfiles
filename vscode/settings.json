@@ -18,8 +18,8 @@
     "editor.snippetSuggestions": "top",
     "editor.renderWhitespace": "all",
     "editor.renderLineHighlight": "all",
-    "workbench.colorTheme": "GitHub Plus",
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Opacc Web Application Services - dark",
+    "workbench.iconTheme": "vscode-icons",
     "workbench.startupEditor": "newUntitledFile",
     "workbench.statusBar.feedback.visible": false,
     "workbench.colorCustomizations": {
